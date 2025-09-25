@@ -3,6 +3,13 @@ body {
     color: whitesmoke;
 }
 
+header {
+    border: solid 2px whitesmoke;
+    font-size: 32px;
+    padding: 10px;
+    color: darkblue;
+}
+
 h1{
     font-size: 30px;
    text-align: center;
